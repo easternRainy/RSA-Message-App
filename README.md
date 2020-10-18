@@ -6,5 +6,5 @@
 
 ## Usage
 - Clone the repository.
-- Run the project in visual studio. Android Simulator will show up.
+- Run the project in Android Studio. Android Simulator will show up.
 - Now you can generate RSA key, encrypt or decrypt message now.
